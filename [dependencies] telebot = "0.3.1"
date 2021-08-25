@@ -1,0 +1,2 @@
+[dependencies]
+telebot = "0.3.1"
